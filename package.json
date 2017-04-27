@@ -1,0 +1,9 @@
+{
+  "name": "sync-loop",
+  "version": "0.1.0",
+  "description": "Run a sync loop with async functions",
+  "main": "index.js",
+  "repository": "https://github.com/kimkha/sync-loop",
+  "author": "Nguyen Kim Kha <nkimkha@gmail.com>",
+  "license": "GNU General Public License v3.0"
+}
